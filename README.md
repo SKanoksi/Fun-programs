@@ -1,6 +1,4 @@
 # A collection of fun programs
 
 1. Closed Knight Tours \
-   = Find closed knight tours \
-   = See https://en.wikipedia.org/wiki/Knight%27s_tour \
-   = KnightTour.c, KnightTour_omp.c
+   Find tours of a chess knight moving around the board that can loop back to the beginning. This implementation employs a brute-force backtracking algorithm (KnightTour.c and KnightTour_omp.c).
