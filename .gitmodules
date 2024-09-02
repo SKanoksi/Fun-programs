@@ -1,0 +1,3 @@
+[submodule "julia-set"]
+	path = julia-set
+	url = https://github.com/SKanoksi/Julia-set-Fullpar.git
